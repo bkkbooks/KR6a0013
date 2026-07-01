@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0013/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長阿含十報法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0013.xml
+    old_id: T01n0013
+hash: sha256:159d06758d5b7202087ecdacf2adf224ab1c6645498835d7901fe4599d017561

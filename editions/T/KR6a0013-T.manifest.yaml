@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6a0013/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0013/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長阿含十報法經
+  identifiers:
+    krp: KR6a0013
+    cbeta: T01n0013
+    cbeta_old_id: T01n0013
+    authorityid: CA0000428
+    json_key: T0013
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0013.xml
+    old_id: T01n0013
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0013_000-T.yaml, hash: 'sha256:159d06758d5b7202087ecdacf2adf224ab1c6645498835d7901fe4599d017561'}
+  - {seq: 1, filename: KR6a0013_001-T.yaml, hash: 'sha256:f925fc76ba8dc4db1d684136633e2800b14daeaa200551443dae9249afbb1fd6'}
+  - {seq: 2, filename: KR6a0013_002-T.yaml, hash: 'sha256:60e980d986527a2302c2fcb20ada9b8357039c9b567e588ec24734dec1103a62'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0013_000-T.markers.yaml, hash: 'sha256:99fe0e6398ad154a6f26a506ac2b667a1302e69e8b6f250e30c9792f6ba9a123'}
+  - {seq: 1, role: markers, filename: assets/KR6a0013_001-T.markers.yaml, hash: 'sha256:9a218e0daf71e18deab57e62d6a7fafeee70fa4621751a8240bedb11c2bec64e'}
+  - {seq: 2, role: markers, filename: assets/KR6a0013_002-T.markers.yaml, hash: 'sha256:a7487e067e54782648e5b466f08ec833218b8cfe3770301650f8edfa4676fd8e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0013_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4152
+  label: 長阿含十報法經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0013_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5955
+  label: 長阿含十報法經卷下
+  type: juan
+  level: 1
+hash: sha256:dfa4a548abcb01e33a6c0050c3d52ce0c00b187ac94dee5f603890bf7d3d4549
