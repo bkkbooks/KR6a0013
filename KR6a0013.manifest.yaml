@@ -34,7 +34,7 @@ assets:
   - {seq: 1, filename: KR6a0013_001.yaml, hash: 'sha256:12cd8b31cad2f79a6bbb9a17f2c29dfd2e89e1a655cabc8859ccca4ead3bb4d3'}
   - {seq: 2, filename: KR6a0013_002.yaml, hash: 'sha256:f0434ecf356c826c91406509475db6d62044d9fff9fd8ea4a70f2226718ae7a3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0013_000.markers.yaml, hash: 'sha256:c4e322d5559aef6753c088e352100fcf1e2e8c72b0c251ac7f66ee165f29e3b9'}
+  - {seq: 0, role: markers, filename: assets/KR6a0013_000.markers.yaml, hash: 'sha256:d0b801cc4d58aded1e10b33fa2f12de9f3a3ee3c81321e22bbfe9807f16433e9'}
   - {seq: 1, role: markers, filename: assets/KR6a0013_001.markers.yaml, hash: 'sha256:026350e9826d8121f5ed348a4c1f6b6b13861d3e535f91e71824b7e7d15b7d15'}
   - {seq: 2, role: markers, filename: assets/KR6a0013_002.markers.yaml, hash: 'sha256:481bfb5412104833cd8d9504a31bb01d4fd61169398266557e268700c41a6594'}
 table_of_contents:
@@ -58,7 +58,7 @@ table_of_contents:
   label: 長阿含十報法經卷下
   type: juan
   level: 1
-hash: sha256:84f3e47e387b0502157e3ed447e5c2fc50e87ab8d0d98fb3e4f4cb8342e32407
+hash: sha256:cca026c216108b57e49a0e7805585534edaf6594ebbbbc71caa93e05402da285
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
